@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.light{
+    background-color: antiquewhite;
+    color:rgb(68, 5, 5) ;
+}
+
+.dark{
+    background-color: rgb(63, 63, 63);
+    color: antiquewhite;
+}
+
+.buttons{
+padding: 10px;
+margin-right:10px;
+display: flex;
+justify-content: end;
+}
+
+button{
+    box-shadow: 0px 0px 5px #ccc;
+    padding: 5px;
+}
